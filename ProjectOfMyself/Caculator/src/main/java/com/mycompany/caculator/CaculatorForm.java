@@ -27,11 +27,7 @@ public class CaculatorForm extends javax.swing.JFrame {
         txtresult.setEnabled(true);
         btnOn.setEnabled(false);
         btnOff.setEnabled(true);
-
-        
-        
-        
-        
+                           
         btnAdd.setEnabled(true);
         btnAdd.setEnabled(true);
         btnClear.setEnabled(true);
