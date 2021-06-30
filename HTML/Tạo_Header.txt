@@ -1,0 +1,7 @@
+Figma: nên xem
+background-image: url(bỏ đường link hình);
+
+sử dụng div để hiển thị background hay hình cho đẹp hơn khi sài thẻ <img>
+
+*Nguyên tắc: 
+Dry: don't repeat yourself

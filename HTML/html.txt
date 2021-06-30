@@ -1,0 +1,43 @@
+HTML Elements (các yếu tố của HTML)
+<tagname> Content goes here... </tagname>
+
+<head> ghi ra cái tiêu đề của file </head>
+
+ít ai khi quan tâm <head></head>
+
+<title></title> luôn phải nằm trong <head>
+
+HTML Attributes( các thuộc tính của HTML)
+Đối với element của HTML có thể truyền vào các thuộc tính 
+
+*HTML:
+thẻ của javasript sẽ nhúng vào body 
+Embed nhúng css/js
+
+Thẻ body quan trọng ( hay làm việc trong thẻ body) 
+- Heading từ <h1> to <h6> chỉ có <h1> đến <h6> ko có <h7> trở lên 
+
+- Khi đi làm ko thẻ heading, khác nhau font size nên khi đi làm khai báo thẻ <p> rồi thiết kế lại style và font size lại
+
+- Thẻ <div> bình thường ko làm gì là chiều ngang của 1 trang, content cao bao nhiêu thì div cao bấy nhiêu
+ và thẻ <div> dạng khối 
+- Thẻ <span> có chiều ngang bằng content, thể hiện vừa đủ mà thôi 
+
+*solid là rắn
+- thẻ <div> là tự động xuống hàng và thẻ<span> nó ghi liền 
+- thẻ <a> (anchor), href là muốn dẫn tới khi bạn ấn đường link này, thẻ <a> nhúng các đường link vào
+(parent sẽ mở đường link trong tab mình sài luôn, blank sẽ mở ra tab mới
+- thẻ <img> để thêm ảnh 
+- thẻ <form action="/link-server" method = "POST> để chọn các option, hoặc điền form:
++ có thẻ <button>
++ thẻ <input>
++ thẻ <select>
+- thẻ <table> để tạo một table
+- thẻ <ol> là theo thứ tự 
+- thẻ <ul> ko theo thứ tự 
+
+
+Một thẻ chỉ có một id thôi
+dùng class nhiều hơn id 
+class được đặt tên giống nhau nhưng id thì đặt tên chỉ 1 
+class là dùng dấu (.) còn id là dùng dấu (#)
