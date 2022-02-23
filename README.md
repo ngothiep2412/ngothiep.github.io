@@ -28,15 +28,14 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
-  ## 📈 Github Stats 
-
-![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=vishwasnavadak&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark)
-![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasnavadak&layout=compact&hide=php&hide_border=true&theme=dark)
 
 <table style="width:100%;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doremonpop130&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="doremonpop130" width="100%"/>
+
+![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=doremonpop130&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark)
+![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doremonpop130&layout=compact&hide=php&hide_border=true&theme=dark)
     </td>
     <td>
       <p align="center"> 
