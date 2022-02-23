@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ngô Thiệp</h1>
+<h1 align="center">Hey there 👋, I'm Ngô Thiệp</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=doremonpop130" alt="doremonpop130" /> <img src="https://badges.pufler.dev/repos/doremonpop130" alt="doremonpop130" /> </p>
 
 - ✍ I'm a student of: FPT University (FPTU)
 
-- 🌱 I’m currently learning **FULlSTACK**.
-
+- 🌱 I’m currently learning **FULLSTACK**. 
+- 🌱 I’m looking forward to contribute to Open Source Projects.
 
 ## 📫 How to reach me:
 <p align="center">
@@ -21,9 +21,9 @@
 ## Skills:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/2x/html-5.png"/>
-  <img src="https://img.icons8.com/color/2x/css3.png"/>
-  <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
